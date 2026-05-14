@@ -4,6 +4,8 @@ for (let i=0; i<100;i++) {
             console.log("FizzBuzz");
             continue;
         }
+        console.log("Fizz");
+        continue;
     }
     console.log(i);
 }
